@@ -1,6 +1,6 @@
 # delivery-service
 
-Сервис управления ресторанами и меню Food Delivery Platform.
+Сервис доставки Food Delivery Platform.
 
 ## Стек
 
